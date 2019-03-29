@@ -1,0 +1,1 @@
+D:\Source\GitHub\LuisTejedaS\10DaysXamDay8\src\TenDaysOfXamarin\bin\Debug\netstandard2.0\TenDaysOfXamarin.dll
